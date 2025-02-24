@@ -12,7 +12,7 @@
 
 <div class="w-64 border-r border-gray-700 p-4">
   <div class="mb-8">
-    <button class="w-full bg-blue-600 text-white py-2 px-4 rounded-lg flex items-center justify-center gap-2">
+    <button class="w-full bg-sky-700 hover:bg-sky-600 active:bg-sky-800 text-white py-2 px-4 rounded-lg flex items-center justify-center gap-2">
       <span class="text-lg">✏️</span>
       Compose
     </button>

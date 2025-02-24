@@ -5,7 +5,7 @@
   let selectedFolder = 'inbox';
 </script>
 
-<div class="flex h-screen bg-gray-900 text-gray-100">
+<div class="flex h-screen bg-zinc-900 text-gray-100">
   <Sidebar {selectedFolder} />
   <EmailList {selectedFolder} />
 </div>
